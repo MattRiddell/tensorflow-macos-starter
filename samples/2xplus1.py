@@ -1,5 +1,5 @@
 import tensorflow as tf 
-import keras
+from tensorflow import keras
 import numpy as np
 # To log device placement
 # tf.debugging.set_log_device_placement(True)
