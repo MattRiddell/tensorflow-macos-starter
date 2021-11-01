@@ -8,6 +8,8 @@ brew link --force --overwrite python@3.8
 
 ## If miniforge not installed
 
+Make sure that Python is version 3.7+
+
 ```zsh
 python -m pip install -U pip
 wget https://github.com/conda-forge/miniforge/releases/latest/download/Miniforge3-MacOSX-arm64.sh
